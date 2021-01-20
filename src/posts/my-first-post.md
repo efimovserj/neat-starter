@@ -10,13 +10,13 @@ tags:
   - center
   - right
 ---
-# This is a Heading h1
+# This is a Heading h1!
 
 ## This is a Heading h2
 
 ###### This is a Heading h6
 
-## Emphasis
+## Emphasis!
 
 *This text will be italic*\
 *This will also be italic*
